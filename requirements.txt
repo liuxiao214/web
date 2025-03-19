@@ -1,0 +1,2 @@
+numpy==1.23.1
+Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
